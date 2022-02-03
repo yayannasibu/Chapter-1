@@ -1,35 +1,38 @@
-paintwhite
 right
-forward (11)
+forward(9)
 left
-forward (2)
+forward
 right
-forward (2)
+forward(2)
 left
-forward (6)
+forward(6)
 right
-forward (2)
+forward(2)
 left
-forward (1)
+forward
 pickup
-backward
+right(2)
+forward
+right
+forward(10)
+right
+forward(2)
 left
-forward (9)
-right
-forward (1)
-right
-right
-left
-forward (7)
+forward(7)
 putdown
-right
-right
-forward (7)
-right
-forward (4)
 left
-forward (3)
+forward(6)
 left
-forward (4)
+forward(5)
+paintwhite
+forward(3)
 left
-forward (2)
+forward(3)
+left
+forward(3)
+left
+forward(6)
+left
+forward(3)
+left
+forward(3)
